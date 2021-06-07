@@ -12,6 +12,7 @@
     "apollo-client": "^2.6.10",
     "apollo-link-context": "^1.0.20",
     "apollo-link-http": "^1.5.17",
+    "dotenv": "^10.0.0",
     "firebase": "^8.6.5",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.12.4",
